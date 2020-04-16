@@ -9,7 +9,12 @@
 ```
  * Public STUN Server list *
 ________
-Maybe we could keep this list up-to-date together. If you got new servers or servers that are down report it.
+Maybe we could keep this list up-to-date together. 
+If you got new servers or servers that are down report it.
+
+### Install
+> composer require strapatsen/stunservers
+
 ________
 ### TODO
 Script to check (php, js):
