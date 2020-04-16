@@ -6,8 +6,7 @@
  /" \   :)     \:  |     /\\ __ //\ |    \    \ |( \_|:  \  /\  |\  /" \   :)     \:  |     
 (_______/       \__|    (__________) \___|\____\) \_______)(__\_|_)(_______/       \__|     
 ```
- * Public STUN Server list *<br>
-<br>
+ * Public STUN Server list *
 ________
 Maybe we could keep this list up-to-date together. If you got new servers or servers that are down report it.
 ________
@@ -18,3 +17,6 @@ Script to check (php, js):
  - Easy add servers
  - Set favorites
  - other things...
+
+### HELPME!
+I don't have a lot of time, so if people are interesting in helping with this project contact me!
