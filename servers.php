@@ -10,8 +10,8 @@
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * /*
  
  /**********
-  * ARRAY
-  *********\
+  * SERVER LIST (ARRAY)
+  *********/
 stunservers = array(
     'stun.1und1.de:3478',
     'stun.gmx.net:3478',
