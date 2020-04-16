@@ -126,7 +126,7 @@ stunservers = array(
     'stun.noblogs.org:3478',
     'stun.noc.ams-ix.net:3478',
     'stun.nonoh.net:3478',
-    'stun.nottingham.ac.uk:3478',',
+    'stun.nottingham.ac.uk:3478',
     'stun.nova.is:3478',
     'stun.on.net.mk:3478',
     'stun.ooma.com:3478',
