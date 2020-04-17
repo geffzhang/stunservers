@@ -11,11 +11,12 @@
 ________
 
 ### HELPME!
-I don't have a lot of time, so if people are interesting in helping with this project contact me!
-Maybe we could keep this list up-to-date together.
+I don't don't have a lot time to build the php and javascript Class. If people wanna help, contact me!
+We could keep this list up-to-date together!
 
 ### TODO
 Script to check (php, js):
+ - Easy to use classes
  - if servers work, with automatic report
  - No doubles
  - Easy add servers
